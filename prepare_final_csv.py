@@ -1,9 +1,9 @@
 import pandas as pd
 import re
 
-# Please eneter the file paths to prepare a final CSV file.
-raw_data_file_path = "20250408_084234_without_encoder_error_all_cycle_calibration.csv"
-temp_chamber_file_path = "tmp_data.csv"
+# Please enter the file paths to prepare a final CSV file.
+raw_data_file_path = "measurement_log_20250414_084146.csv"
+temp_chamber_file_path = "14 April Temp chamber.csv"
 
 
 class PrepareData:
@@ -26,15 +26,22 @@ class PrepareData:
             # Select and rename relevant columns
             self.df_tmp_chmber = self.df_tmp_chmber.set_index('Date/Time')[['Ideal', 'Actual']]
 
-            # Create a combined dataframe
+            # Reset temp chamber for merging
             df_tmp_chmber_reset = self.df_tmp_chmber.reset_index().rename(columns={"Date/Time": "timestamp"})
+
+            # Combine raw timestamps and temp chamber timestamps
             combined_df = pd.concat([self.df_raw_data[['timestamp']], df_tmp_chmber_reset], axis=0, ignore_index=True)
             combined_df = combined_df.sort_values('timestamp')
 
-            # Interpolate temperature data
+            # Fill temperature values
             combined_df = combined_df.set_index('timestamp')
-            combined_df['Ideal'] = combined_df['Ideal'].interpolate(method='time').ffill()
-            combined_df['Actual'] = combined_df['Actual'].interpolate(method='time').ffill()
+            combined_df['Ideal'] = combined_df['Ideal'].interpolate(method='time')
+            combined_df['Actual'] = combined_df['Actual'].interpolate(method='time')
+
+            # Special handling: Fill leading NaN (timestamps before first temp chamber reading)
+            combined_df['Ideal'] = combined_df['Ideal'].fillna(method='bfill')
+            combined_df['Actual'] = combined_df['Actual'].fillna(method='bfill')
+
             combined_df = combined_df.reset_index()
 
             # Filter to only Arduino timestamps
@@ -46,21 +53,22 @@ class PrepareData:
             final_df['ideal_tmp'] = final_temp_values['Ideal']
             final_df['actual_tmp'] = final_temp_values['Actual']
 
-            # Extract timestamp from data file name and save the csv, to match the readings
+            # Extract timestamp from data file name and save the CSV
             match = re.search(r"(\d{8})_(\d{6})", self.raw_data_file_path)
             if match:
                 date_part = match.group(1)
                 time_part = match.group(2)
                 final_file_name = f'Final_{date_part+"_"+time_part}.csv'
             else:
-                print("No timestamp found in filename.")
+                final_file_name = "Final_output.csv"
+                print("No timestamp found in filename. Saving as Final_output.csv.")
 
             # Save to new CSV
             final_df.to_csv(final_file_name, index=False)
-            print(f"Final CSV generated and saved as: {final_file_name}")
+            print(f"✅ Final CSV generated and saved as: {final_file_name}")
 
         except BaseException as e:
-            print(f"ERROR while preparing final csv file: {e}")
+            print(f"❌ ERROR while preparing final csv file: {e}")
 
 
 if __name__ == "__main__":
