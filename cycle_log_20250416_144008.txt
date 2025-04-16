@@ -1,0 +1,45 @@
+[2025-04-16 14:40:08] System started. Runtime goal: 10 min
+[2025-04-16 14:40:11] Cycle 1 started
+Cycle 1 ended -> [40004, -39997] -> [-8,27]
+[2025-04-16 14:40:55] Cycle 2 started
+Cycle 2 ended -> [39991, -39999] -> [31,34]
+[2025-04-16 14:41:41] Cycle 3 started
+Cycle 3 ended -> [39993, -39999] -> [30,32]
+[2025-04-16 14:42:28] Cycle 4 started
+Cycle 4 ended -> [39993, -39994] -> [30,29]
+[2025-04-16 14:43:14] Cycle 5 started
+Cycle 5 ended -> [39993, -39993] -> [29,31]
+[2025-04-16 14:44:00] Cycle 6 started
+Cycle 6 ended -> [39994, -39995] -> [23,22]
+[2025-04-16 14:44:45] Cycle 7 started
+Cycle 7 ended -> [39993, -39991] -> [31,24]
+[2025-04-16 14:45:30] Cycle 8 started
+Cycle 8 ended -> [39993, -40000] -> [23,33]
+[2025-04-16 14:46:16] Cycle 9 started
+Cycle 9 ended -> [39994, -39999] -> [31,26]
+[2025-04-16 14:47:02] Cycle 10 started
+Cycle 10 ended -> [39993, -39992] -> [31,30]
+[2025-04-16 14:47:48] Cycle 11 started
+Cycle 11 ended -> [39991, -39991] -> [30,24]
+[2025-04-16 14:48:34] Cycle 12 started
+Cycle 12 ended -> [39990, -39998] -> [31,32]
+[2025-04-16 14:49:20] Cycle 13 started
+Cycle 13 ended -> [39992, -39991] -> [30,31]
+[2025-04-16 14:50:06] Cycle 14 started
+Cycle 14 ended -> [39990, -39995] -> [31,32]
+
+================ SYSTEM SUMMARY ===============
+Total cycles completed: 14
+System started at     : 2025-04-16 14:40:10
+System ended at       : 2025-04-16 14:50:51
+Total time elapsed    : 10.68 minutes
+[2025-04-16 14:50:51] Start fitting Encoder counts
+[2025-04-16 14:50:51] Finished fitting Encoder counts
+Encoder error file saved as   : encoder_errors_20250416_144008.csv
+[2025-04-16 14:50:51] Adding direction column to CSV
+[2025-04-16 14:50:52] Finished adding direction
+[2025-04-16 14:50:52] Started calculating Angle Error
+[2025-04-16 14:50:59] Angle errors calculated and csv updated
+Logs are saved in     : cycle_log_20250416_144008.txt
+Final CSV saved to  : measurement_log_20250416_144008.csv
+====================================================
