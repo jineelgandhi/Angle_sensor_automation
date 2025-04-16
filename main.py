@@ -7,7 +7,7 @@ import pandas as pd
 from cycle_calibration import Calibration
 
 # Configuration
-SERIAL_PORT = 'COM14'  # COM port of Arduino
+SERIAL_PORT = '/dev/ttyACM0'  # COM port of Arduino
 BAUDRATE = 115200  # Communication rate
 CYCLE_DURATION_MIN = 1  # Approx duration of one cycle in minutes
 ENCODER_PPR = 40000  # Total pulse per rotation of encoder in the system
