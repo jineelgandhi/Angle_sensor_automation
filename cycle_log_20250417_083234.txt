@@ -1,0 +1,577 @@
+[2025-04-17 08:32:34] System started. Runtime goal: 218 min
+[2025-04-17 08:32:37] Cycle 1 started
+Cycle 1 ended -> [40005, -39996] -> [-9,21]
+[2025-04-17 08:33:21] Cycle 2 started
+Cycle 2 ended -> [39996, -39998] -> [19,28]
+[2025-04-17 08:34:07] Cycle 3 started
+Cycle 3 ended -> [39992, -39999] -> [29,34]
+[2025-04-17 08:34:53] Cycle 4 started
+Cycle 4 ended -> [39991, -39996] -> [30,34]
+[2025-04-17 08:35:40] Cycle 5 started
+Cycle 5 ended -> [39992, -39999] -> [24,32]
+[2025-04-17 08:36:26] Cycle 6 started
+Cycle 6 ended -> [39991, -39996] -> [31,33]
+[2025-04-17 08:37:12] Cycle 7 started
+Cycle 7 ended -> [39990, -39997] -> [31,33]
+[2025-04-17 08:37:59] Cycle 8 started
+Cycle 8 ended -> [39991, -39995] -> [30,32]
+[2025-04-17 08:38:45] Cycle 9 started
+Cycle 9 ended -> [39994, -39995] -> [27,32]
+[2025-04-17 08:39:31] Cycle 10 started
+Cycle 10 ended -> [39995, -39996] -> [27,32]
+[2025-04-17 08:40:18] Cycle 11 started
+Cycle 11 ended -> [39991, -39990] -> [29,30]
+[2025-04-17 08:41:04] Cycle 12 started
+Cycle 12 ended -> [39990, -39991] -> [31,31]
+[2025-04-17 08:41:50] Cycle 13 started
+Cycle 13 ended -> [39997, -39992] -> [25,30]
+[2025-04-17 08:42:36] Cycle 14 started
+Cycle 14 ended -> [39991, -39995] -> [29,32]
+[2025-04-17 08:43:22] Cycle 15 started
+Cycle 15 ended -> [39989, -39999] -> [31,25]
+[2025-04-17 08:44:08] Cycle 16 started
+Cycle 16 ended -> [39993, -39998] -> [28,26]
+[2025-04-17 08:44:54] Cycle 17 started
+Cycle 17 ended -> [39993, -39996] -> [30,32]
+[2025-04-17 08:45:41] Cycle 18 started
+Cycle 18 ended -> [39995, -39997] -> [33,33]
+[2025-04-17 08:46:28] Cycle 19 started
+Cycle 19 ended -> [39997, -39996] -> [25,33]
+[2025-04-17 08:47:14] Cycle 20 started
+Cycle 20 ended -> [39990, -39994] -> [30,33]
+[2025-04-17 08:48:01] Cycle 21 started
+Cycle 21 ended -> [39994, -39994] -> [32,32]
+[2025-04-17 08:48:47] Cycle 22 started
+Cycle 22 ended -> [39994, -39994] -> [27,28]
+[2025-04-17 08:49:33] Cycle 23 started
+Cycle 23 ended -> [39989, -39991] -> [31,33]
+[2025-04-17 08:50:20] Cycle 24 started
+Cycle 24 ended -> [39991, -39991] -> [30,33]
+[2025-04-17 08:51:06] Cycle 25 started
+Cycle 25 ended -> [39991, -39991] -> [32,32]
+[2025-04-17 08:51:53] Cycle 26 started
+Cycle 26 ended -> [39984, -39984] -> [31,31]
+[2025-04-17 08:52:39] Cycle 27 started
+Cycle 27 ended -> [39990, -39990] -> [33,33]
+[2025-04-17 08:53:26] Cycle 28 started
+Cycle 28 ended -> [39995, -39993] -> [27,33]
+[2025-04-17 08:54:13] Cycle 29 started
+Cycle 29 ended -> [39993, -39993] -> [32,34]
+[2025-04-17 08:55:00] Cycle 30 started
+Cycle 30 ended -> [39988, -39993] -> [31,27]
+[2025-04-17 08:55:46] Cycle 31 started
+Cycle 31 ended -> [39986, -39988] -> [29,32]
+[2025-04-17 08:56:32] Cycle 32 started
+Cycle 32 ended -> [39981, -39983] -> [28,33]
+[2025-04-17 08:57:19] Cycle 33 started
+Cycle 33 ended -> [39981, -39980] -> [31,31]
+[2025-04-17 08:58:04] Cycle 34 started
+Cycle 34 ended -> [39982, -39984] -> [32,33]
+[2025-04-17 08:58:51] Cycle 35 started
+Cycle 35 ended -> [39980, -39978] -> [31,29]
+[2025-04-17 08:59:37] Cycle 36 started
+Cycle 36 ended -> [39984, -39981] -> [33,30]
+[2025-04-17 09:00:24] Cycle 37 started
+Cycle 37 ended -> [39988, -39985] -> [28,31]
+[2025-04-17 09:01:10] Cycle 38 started
+Cycle 38 ended -> [39985, -39988] -> [31,33]
+[2025-04-17 09:01:56] Cycle 39 started
+Cycle 39 ended -> [39982, -39985] -> [31,26]
+[2025-04-17 09:02:42] Cycle 40 started
+Cycle 40 ended -> [39985, -39981] -> [32,31]
+[2025-04-17 09:03:29] Cycle 41 started
+Cycle 41 ended -> [39981, -39987] -> [31,33]
+[2025-04-17 09:04:15] Cycle 42 started
+Cycle 42 ended -> [39979, -39983] -> [29,33]
+[2025-04-17 09:05:02] Cycle 43 started
+Cycle 43 ended -> [39984, -39990] -> [26,25]
+[2025-04-17 09:05:48] Cycle 44 started
+Cycle 44 ended -> [39986, -39986] -> [34,30]
+[2025-04-17 09:06:34] Cycle 45 started
+Cycle 45 ended -> [39986, -39986] -> [21,32]
+[2025-04-17 09:07:20] Cycle 46 started
+Cycle 46 ended -> [39986, -39987] -> [34,32]
+[2025-04-17 09:08:07] Cycle 47 started
+Cycle 47 ended -> [39987, -39987] -> [34,33]
+[2025-04-17 09:08:54] Cycle 48 started
+Cycle 48 ended -> [39986, -39985] -> [33,32]
+[2025-04-17 09:09:41] Cycle 49 started
+Cycle 49 ended -> [39986, -39986] -> [33,32]
+[2025-04-17 09:10:28] Cycle 50 started
+Cycle 50 ended -> [39986, -39985] -> [35,31]
+[2025-04-17 09:11:14] Cycle 51 started
+Cycle 51 ended -> [39985, -39987] -> [34,32]
+[2025-04-17 09:12:01] Cycle 52 started
+Cycle 52 ended -> [39987, -39985] -> [32,32]
+[2025-04-17 09:12:48] Cycle 53 started
+Cycle 53 ended -> [39985, -39987] -> [34,32]
+[2025-04-17 09:13:35] Cycle 54 started
+Cycle 54 ended -> [39987, -39987] -> [25,30]
+[2025-04-17 09:14:21] Cycle 55 started
+Cycle 55 ended -> [39987, -39988] -> [31,29]
+[2025-04-17 09:15:07] Cycle 56 started
+Cycle 56 ended -> [39988, -39981] -> [27,31]
+[2025-04-17 09:15:53] Cycle 57 started
+Cycle 57 ended -> [39985, -39985] -> [26,27]
+[2025-04-17 09:16:39] Cycle 58 started
+Cycle 58 ended -> [39983, -39976] -> [34,31]
+[2025-04-17 09:17:25] Cycle 59 started
+Cycle 59 ended -> [39984, -39984] -> [33,33]
+[2025-04-17 09:18:12] Cycle 60 started
+Cycle 60 ended -> [39985, -39986] -> [35,32]
+[2025-04-17 09:18:59] Cycle 61 started
+Cycle 61 ended -> [39979, -39985] -> [28,34]
+[2025-04-17 09:19:46] Cycle 62 started
+Cycle 62 ended -> [39981, -39988] -> [31,33]
+[2025-04-17 09:20:32] Cycle 63 started
+Cycle 63 ended -> [39986, -39992] -> [31,28]
+[2025-04-17 09:21:18] Cycle 64 started
+Cycle 64 ended -> [39990, -39994] -> [31,26]
+[2025-04-17 09:22:04] Cycle 65 started
+Cycle 65 ended -> [39993, -39993] -> [32,32]
+[2025-04-17 09:22:51] Cycle 66 started
+Cycle 66 ended -> [39993, -39992] -> [33,33]
+[2025-04-17 09:23:38] Cycle 67 started
+Cycle 67 ended -> [39992, -39993] -> [33,29]
+[2025-04-17 09:24:25] Cycle 68 started
+Cycle 68 ended -> [39993, -39992] -> [32,30]
+[2025-04-17 09:25:11] Cycle 69 started
+Cycle 69 ended -> [39992, -39993] -> [33,32]
+[2025-04-17 09:25:58] Cycle 70 started
+Cycle 70 ended -> [39992, -39992] -> [33,34]
+[2025-04-17 09:26:45] Cycle 71 started
+Cycle 71 ended -> [39993, -39992] -> [28,32]
+[2025-04-17 09:27:31] Cycle 72 started
+Cycle 72 ended -> [39992, -39993] -> [34,32]
+[2025-04-17 09:28:18] Cycle 73 started
+Cycle 73 ended -> [39993, -39993] -> [33,33]
+[2025-04-17 09:29:05] Cycle 74 started
+Cycle 74 ended -> [39994, -39994] -> [27,21]
+[2025-04-17 09:29:51] Cycle 75 started
+Cycle 75 ended -> [39993, -39993] -> [32,23]
+[2025-04-17 09:30:37] Cycle 76 started
+Cycle 76 ended -> [39992, -39992] -> [33,36]
+[2025-04-17 09:31:24] Cycle 77 started
+Cycle 77 ended -> [39992, -39992] -> [33,33]
+[2025-04-17 09:32:11] Cycle 78 started
+Cycle 78 ended -> [39993, -39994] -> [33,32]
+[2025-04-17 09:32:58] Cycle 79 started
+Cycle 79 ended -> [39993, -39993] -> [32,33]
+[2025-04-17 09:33:45] Cycle 80 started
+Cycle 80 ended -> [39994, -39993] -> [32,33]
+[2025-04-17 09:34:32] Cycle 81 started
+Cycle 81 ended -> [39993, -39994] -> [33,28]
+[2025-04-17 09:35:18] Cycle 82 started
+Cycle 82 ended -> [39994, -39994] -> [25,32]
+[2025-04-17 09:36:04] Cycle 83 started
+Cycle 83 ended -> [39994, -39994] -> [32,32]
+[2025-04-17 09:36:51] Cycle 84 started
+Cycle 84 ended -> [39993, -39993] -> [30,29]
+[2025-04-17 09:37:37] Cycle 85 started
+Cycle 85 ended -> [39990, -40001] -> [31,39]
+[2025-04-17 09:38:24] Cycle 86 started
+Cycle 86 ended -> [39995, -40002] -> [33,42]
+[2025-04-17 09:39:12] Cycle 87 started
+Cycle 87 ended -> [39995, -39995] -> [32,25]
+[2025-04-17 09:39:58] Cycle 88 started
+Cycle 88 ended -> [39994, -39994] -> [32,36]
+[2025-04-17 09:40:45] Cycle 89 started
+Cycle 89 ended -> [39995, -39995] -> [32,33]
+[2025-04-17 09:41:32] Cycle 90 started
+Cycle 90 ended -> [39989, -39994] -> [31,29]
+[2025-04-17 09:42:18] Cycle 91 started
+Cycle 91 ended -> [39994, -39994] -> [34,34]
+[2025-04-17 09:43:05] Cycle 92 started
+Cycle 92 ended -> [39994, -39996] -> [33,32]
+[2025-04-17 09:43:52] Cycle 93 started
+Cycle 93 ended -> [39992, -39997] -> [28,33]
+[2025-04-17 09:44:38] Cycle 94 started
+Cycle 94 ended -> [39995, -39994] -> [32,29]
+[2025-04-17 09:45:25] Cycle 95 started
+Cycle 95 ended -> [39995, -39997] -> [26,33]
+[2025-04-17 09:46:11] Cycle 96 started
+Cycle 96 ended -> [39996, -39993] -> [33,35]
+[2025-04-17 09:46:58] Cycle 97 started
+Cycle 97 ended -> [39993, -39993] -> [28,35]
+[2025-04-17 09:47:45] Cycle 98 started
+Cycle 98 ended -> [39994, -39995] -> [34,35]
+[2025-04-17 09:48:32] Cycle 99 started
+Cycle 99 ended -> [39995, -39995] -> [32,35]
+[2025-04-17 09:49:19] Cycle 100 started
+Cycle 100 ended -> [39991, -39996] -> [29,28]
+[2025-04-17 09:50:05] Cycle 101 started
+Cycle 101 ended -> [39996, -39994] -> [32,34]
+[2025-04-17 09:50:52] Cycle 102 started
+Cycle 102 ended -> [39992, -39999] -> [36,35]
+[2025-04-17 09:51:39] Cycle 103 started
+Cycle 103 ended -> [39998, -40001] -> [40,25]
+[2025-04-17 09:52:26] Cycle 104 started
+Cycle 104 ended -> [39995, -39995] -> [28,29]
+[2025-04-17 09:53:12] Cycle 105 started
+Cycle 105 ended -> [39996, -39996] -> [27,36]
+[2025-04-17 09:53:58] Cycle 106 started
+Cycle 106 ended -> [39994, -39997] -> [36,40]
+[2025-04-17 09:54:45] Cycle 107 started
+Cycle 107 ended -> [39998, -39995] -> [32,37]
+[2025-04-17 09:55:32] Cycle 108 started
+Cycle 108 ended -> [39994, -39994] -> [37,37]
+[2025-04-17 09:56:19] Cycle 109 started
+Cycle 109 ended -> [39994, -40000] -> [29,38]
+[2025-04-17 09:57:06] Cycle 110 started
+Cycle 110 ended -> [39993, -39993] -> [35,31]
+[2025-04-17 09:57:53] Cycle 111 started
+Cycle 111 ended -> [39993, -39997] -> [37,32]
+[2025-04-17 09:58:40] Cycle 112 started
+Cycle 112 ended -> [39998, -39994] -> [40,36]
+[2025-04-17 09:59:27] Cycle 113 started
+Cycle 113 ended -> [39993, -40001] -> [37,34]
+[2025-04-17 10:00:14] Cycle 114 started
+Cycle 114 ended -> [40002, -40002] -> [38,38]
+[2025-04-17 10:01:02] Cycle 115 started
+Cycle 115 ended -> [39996, -39994] -> [36,29]
+[2025-04-17 10:01:49] Cycle 116 started
+Cycle 116 ended -> [39995, -39997] -> [37,29]
+[2025-04-17 10:02:35] Cycle 117 started
+Cycle 117 ended -> [40002, -39996] -> [38,34]
+[2025-04-17 10:03:22] Cycle 118 started
+Cycle 118 ended -> [39995, -39995] -> [34,30]
+[2025-04-17 10:04:09] Cycle 119 started
+Cycle 119 ended -> [39997, -39995] -> [33,35]
+[2025-04-17 10:04:56] Cycle 120 started
+Cycle 120 ended -> [39994, -39993] -> [35,37]
+[2025-04-17 10:05:43] Cycle 121 started
+Cycle 121 ended -> [39995, -39997] -> [35,28]
+[2025-04-17 10:06:29] Cycle 122 started
+Cycle 122 ended -> [39996, -39996] -> [32,35]
+[2025-04-17 10:07:16] Cycle 123 started
+Cycle 123 ended -> [39995, -39993] -> [35,31]
+[2025-04-17 10:08:03] Cycle 124 started
+Cycle 124 ended -> [39994, -39995] -> [37,36]
+[2025-04-17 10:08:50] Cycle 125 started
+Cycle 125 ended -> [39995, -39995] -> [33,30]
+[2025-04-17 10:09:36] Cycle 126 started
+Cycle 126 ended -> [39996, -39993] -> [32,37]
+[2025-04-17 10:10:23] Cycle 127 started
+Cycle 127 ended -> [39993, -39998] -> [37,38]
+[2025-04-17 10:11:11] Cycle 128 started
+Cycle 128 ended -> [39998, -39993] -> [40,37]
+[2025-04-17 10:11:58] Cycle 129 started
+Cycle 129 ended -> [39993, -39994] -> [30,36]
+[2025-04-17 10:12:44] Cycle 130 started
+Cycle 130 ended -> [39996, -39997] -> [35,33]
+[2025-04-17 10:13:31] Cycle 131 started
+Cycle 131 ended -> [39995, -39995] -> [35,35]
+[2025-04-17 10:14:18] Cycle 132 started
+Cycle 132 ended -> [39993, -40001] -> [37,38]
+[2025-04-17 10:15:06] Cycle 133 started
+Cycle 133 ended -> [39997, -39997] -> [37,28]
+[2025-04-17 10:15:52] Cycle 134 started
+Cycle 134 ended -> [39997, -40000] -> [35,39]
+[2025-04-17 10:16:40] Cycle 135 started
+Cycle 135 ended -> [39999, -39999] -> [42,40]
+[2025-04-17 10:17:28] Cycle 136 started
+Cycle 136 ended -> [40003, -39998] -> [40,35]
+[2025-04-17 10:18:15] Cycle 137 started
+Cycle 137 ended -> [39998, -39996] -> [36,35]
+[2025-04-17 10:19:02] Cycle 138 started
+Cycle 138 ended -> [39997, -39999] -> [26,33]
+[2025-04-17 10:19:49] Cycle 139 started
+Cycle 139 ended -> [39997, -39998] -> [37,34]
+[2025-04-17 10:20:36] Cycle 140 started
+Cycle 140 ended -> [39995, -40001] -> [23,38]
+[2025-04-17 10:21:22] Cycle 141 started
+Cycle 141 ended -> [40000, -39999] -> [40,39]
+[2025-04-17 10:22:10] Cycle 142 started
+Cycle 142 ended -> [40000, -39996] -> [32,30]
+[2025-04-17 10:22:56] Cycle 143 started
+Cycle 143 ended -> [40001, -40001] -> [40,38]
+[2025-04-17 10:23:44] Cycle 144 started
+Cycle 144 ended -> [39997, -39996] -> [37,36]
+[2025-04-17 10:24:31] Cycle 145 started
+Cycle 145 ended -> [40001, -39999] -> [38,38]
+[2025-04-17 10:25:19] Cycle 146 started
+Cycle 146 ended -> [39994, -39997] -> [30,35]
+[2025-04-17 10:26:06] Cycle 147 started
+Cycle 147 ended -> [39996, -39994] -> [37,23]
+[2025-04-17 10:26:52] Cycle 148 started
+Cycle 148 ended -> [39994, -39996] -> [24,36]
+[2025-04-17 10:27:38] Cycle 149 started
+Cycle 149 ended -> [40002, -39998] -> [38,32]
+[2025-04-17 10:28:25] Cycle 150 started
+Cycle 150 ended -> [39998, -39994] -> [43,36]
+[2025-04-17 10:29:13] Cycle 151 started
+Cycle 151 ended -> [39993, -39994] -> [37,36]
+[2025-04-17 10:30:00] Cycle 152 started
+Cycle 152 ended -> [39994, -39992] -> [36,37]
+[2025-04-17 10:30:46] Cycle 153 started
+Cycle 153 ended -> [40000, -39993] -> [39,37]
+[2025-04-17 10:31:34] Cycle 154 started
+Cycle 154 ended -> [39999, -39995] -> [38,34]
+[2025-04-17 10:32:21] Cycle 155 started
+Cycle 155 ended -> [39995, -39995] -> [35,35]
+[2025-04-17 10:33:08] Cycle 156 started
+Cycle 156 ended -> [39994, -39994] -> [35,35]
+[2025-04-17 10:33:55] Cycle 157 started
+Cycle 157 ended -> [39994, -39993] -> [35,35]
+[2025-04-17 10:34:42] Cycle 158 started
+Cycle 158 ended -> [39994, -39993] -> [35,37]
+[2025-04-17 10:35:29] Cycle 159 started
+Cycle 159 ended -> [39994, -39994] -> [27,35]
+[2025-04-17 10:36:16] Cycle 160 started
+Cycle 160 ended -> [39993, -39994] -> [28,36]
+[2025-04-17 10:37:02] Cycle 161 started
+Cycle 161 ended -> [39993, -39993] -> [34,36]
+[2025-04-17 10:37:49] Cycle 162 started
+Cycle 162 ended -> [39994, -39995] -> [33,36]
+[2025-04-17 10:38:36] Cycle 163 started
+Cycle 163 ended -> [39994, -39993] -> [27,36]
+[2025-04-17 10:39:23] Cycle 164 started
+Cycle 164 ended -> [39993, -39994] -> [36,34]
+[2025-04-17 10:40:10] Cycle 165 started
+Cycle 165 ended -> [39995, -39995] -> [32,33]
+[2025-04-17 10:40:56] Cycle 166 started
+Cycle 166 ended -> [39995, -39994] -> [26,29]
+[2025-04-17 10:41:42] Cycle 167 started
+Cycle 167 ended -> [39994, -39994] -> [27,36]
+[2025-04-17 10:42:29] Cycle 168 started
+Cycle 168 ended -> [39993, -39994] -> [20,37]
+[2025-04-17 10:43:15] Cycle 169 started
+Cycle 169 ended -> [39994, -39998] -> [34,32]
+[2025-04-17 10:44:02] Cycle 170 started
+Cycle 170 ended -> [39998, -39994] -> [38,36]
+[2025-04-17 10:44:49] Cycle 171 started
+Cycle 171 ended -> [39994, -39993] -> [34,37]
+[2025-04-17 10:45:36] Cycle 172 started
+Cycle 172 ended -> [39993, -39993] -> [35,36]
+[2025-04-17 10:46:23] Cycle 173 started
+Cycle 173 ended -> [39994, -39995] -> [34,35]
+[2025-04-17 10:47:10] Cycle 174 started
+Cycle 174 ended -> [39995, -39995] -> [33,35]
+[2025-04-17 10:47:57] Cycle 175 started
+Cycle 175 ended -> [39994, -39993] -> [28,36]
+[2025-04-17 10:48:44] Cycle 176 started
+Cycle 176 ended -> [39993, -39993] -> [35,37]
+[2025-04-17 10:49:31] Cycle 177 started
+Cycle 177 ended -> [39993, -39999] -> [35,39]
+[2025-04-17 10:50:18] Cycle 178 started
+Cycle 178 ended -> [40000, -39995] -> [38,35]
+[2025-04-17 10:51:05] Cycle 179 started
+Cycle 179 ended -> [39994, -40000] -> [27,38]
+[2025-04-17 10:51:52] Cycle 180 started
+Cycle 180 ended -> [39996, -39994] -> [28,36]
+[2025-04-17 10:52:39] Cycle 181 started
+Cycle 181 ended -> [39999, -39994] -> [38,36]
+[2025-04-17 10:53:26] Cycle 182 started
+Cycle 182 ended -> [39994, -39999] -> [21,33]
+[2025-04-17 10:54:12] Cycle 183 started
+Cycle 183 ended -> [39993, -39994] -> [30,37]
+[2025-04-17 10:54:59] Cycle 184 started
+Cycle 184 ended -> [39996, -39996] -> [27,28]
+[2025-04-17 10:55:45] Cycle 185 started
+Cycle 185 ended -> [39997, -39998] -> [34,34]
+[2025-04-17 10:56:32] Cycle 186 started
+Cycle 186 ended -> [39996, -39999] -> [34,40]
+[2025-04-17 10:57:19] Cycle 187 started
+Cycle 187 ended -> [39998, -40000] -> [38,38]
+[2025-04-17 10:58:07] Cycle 188 started
+Cycle 188 ended -> [39994, -39994] -> [36,37]
+[2025-04-17 10:58:54] Cycle 189 started
+Cycle 189 ended -> [39995, -39995] -> [37,36]
+[2025-04-17 10:59:41] Cycle 190 started
+Cycle 190 ended -> [39994, -39994] -> [35,30]
+[2025-04-17 11:00:28] Cycle 191 started
+Cycle 191 ended -> [39994, -39992] -> [35,37]
+[2025-04-17 11:01:14] Cycle 192 started
+Cycle 192 ended -> [39992, -39994] -> [30,31]
+[2025-04-17 11:02:00] Cycle 193 started
+Cycle 193 ended -> [39994, -39996] -> [37,35]
+[2025-04-17 11:02:47] Cycle 194 started
+Cycle 194 ended -> [39995, -39995] -> [36,30]
+[2025-04-17 11:03:34] Cycle 195 started
+Cycle 195 ended -> [39996, -39996] -> [36,35]
+[2025-04-17 11:04:21] Cycle 196 started
+Cycle 196 ended -> [39995, -39995] -> [35,30]
+[2025-04-17 11:05:07] Cycle 197 started
+Cycle 197 ended -> [39995, -39996] -> [36,34]
+[2025-04-17 11:05:54] Cycle 198 started
+Cycle 198 ended -> [40000, -39999] -> [32,32]
+[2025-04-17 11:06:41] Cycle 199 started
+Cycle 199 ended -> [39994, -39995] -> [28,36]
+[2025-04-17 11:07:28] Cycle 200 started
+Cycle 200 ended -> [39997, -39995] -> [32,28]
+[2025-04-17 11:08:14] Cycle 201 started
+Cycle 201 ended -> [39995, -39996] -> [29,35]
+[2025-04-17 11:09:01] Cycle 202 started
+Cycle 202 ended -> [39995, -39995] -> [35,35]
+[2025-04-17 11:09:48] Cycle 203 started
+Cycle 203 ended -> [39994, -40001] -> [21,38]
+[2025-04-17 11:10:34] Cycle 204 started
+Cycle 204 ended -> [39998, -39998] -> [35,35]
+[2025-04-17 11:11:21] Cycle 205 started
+Cycle 205 ended -> [39998, -39998] -> [36,34]
+[2025-04-17 11:12:08] Cycle 206 started
+Cycle 206 ended -> [39997, -39994] -> [36,37]
+[2025-04-17 11:12:55] Cycle 207 started
+Cycle 207 ended -> [40000, -39994] -> [39,31]
+[2025-04-17 11:13:42] Cycle 208 started
+Cycle 208 ended -> [39994, -39994] -> [36,37]
+[2025-04-17 11:14:29] Cycle 209 started
+Cycle 209 ended -> [39993, -39998] -> [35,39]
+[2025-04-17 11:15:16] Cycle 210 started
+Cycle 210 ended -> [39996, -40000] -> [37,25]
+[2025-04-17 11:16:03] Cycle 211 started
+Cycle 211 ended -> [39996, -39996] -> [36,37]
+[2025-04-17 11:16:50] Cycle 212 started
+Cycle 212 ended -> [39995, -40000] -> [23,38]
+[2025-04-17 11:17:36] Cycle 213 started
+Cycle 213 ended -> [40002, -39996] -> [41,36]
+[2025-04-17 11:18:24] Cycle 214 started
+Cycle 214 ended -> [40000, -40000] -> [38,32]
+[2025-04-17 11:19:11] Cycle 215 started
+Cycle 215 ended -> [40001, -40002] -> [39,32]
+[2025-04-17 11:19:58] Cycle 216 started
+Cycle 216 ended -> [39995, -40001] -> [37,38]
+[2025-04-17 11:20:46] Cycle 217 started
+Cycle 217 ended -> [40003, -39997] -> [38,22]
+[2025-04-17 11:21:32] Cycle 218 started
+Cycle 218 ended -> [39999, -39998] -> [34,34]
+[2025-04-17 11:22:19] Cycle 219 started
+Cycle 219 ended -> [39995, -40000] -> [23,33]
+[2025-04-17 11:23:05] Cycle 220 started
+Cycle 220 ended -> [40000, -40000] -> [35,33]
+[2025-04-17 11:23:52] Cycle 221 started
+Cycle 221 ended -> [39999, -39997] -> [27,35]
+[2025-04-17 11:24:39] Cycle 222 started
+Cycle 222 ended -> [39998, -40000] -> [36,20]
+[2025-04-17 11:25:25] Cycle 223 started
+Cycle 223 ended -> [40002, -39997] -> [41,35]
+[2025-04-17 11:26:12] Cycle 224 started
+Cycle 224 ended -> [39997, -39998] -> [36,34]
+[2025-04-17 11:26:59] Cycle 225 started
+Cycle 225 ended -> [39996, -39996] -> [37,37]
+[2025-04-17 11:27:46] Cycle 226 started
+Cycle 226 ended -> [39997, -39996] -> [28,37]
+[2025-04-17 11:28:32] Cycle 227 started
+Cycle 227 ended -> [40001, -39993] -> [38,37]
+[2025-04-17 11:29:20] Cycle 228 started
+Cycle 228 ended -> [39993, -39994] -> [36,35]
+[2025-04-17 11:30:07] Cycle 229 started
+Cycle 229 ended -> [39993, -40001] -> [31,32]
+[2025-04-17 11:30:53] Cycle 230 started
+Cycle 230 ended -> [40000, -40000] -> [39,38]
+[2025-04-17 11:31:41] Cycle 231 started
+Cycle 231 ended -> [39996, -39995] -> [37,36]
+[2025-04-17 11:32:28] Cycle 232 started
+Cycle 232 ended -> [40000, -40000] -> [38,38]
+[2025-04-17 11:33:16] Cycle 233 started
+Cycle 233 ended -> [40000, -40000] -> [39,38]
+[2025-04-17 11:34:04] Cycle 234 started
+Cycle 234 ended -> [40000, -40000] -> [39,38]
+[2025-04-17 11:34:52] Cycle 235 started
+Cycle 235 ended -> [39999, -40000] -> [39,32]
+[2025-04-17 11:35:40] Cycle 236 started
+Cycle 236 ended -> [39995, -40003] -> [37,38]
+[2025-04-17 11:36:27] Cycle 237 started
+Cycle 237 ended -> [40000, -39996] -> [34,37]
+[2025-04-17 11:37:14] Cycle 238 started
+Cycle 238 ended -> [40004, -39997] -> [39,35]
+[2025-04-17 11:38:01] Cycle 239 started
+Cycle 239 ended -> [39997, -39997] -> [36,35]
+[2025-04-17 11:38:48] Cycle 240 started
+Cycle 240 ended -> [40001, -39996] -> [38,34]
+[2025-04-17 11:39:36] Cycle 241 started
+Cycle 241 ended -> [39996, -40000] -> [35,38]
+[2025-04-17 11:40:23] Cycle 242 started
+Cycle 242 ended -> [39994, -39996] -> [30,29]
+[2025-04-17 11:41:09] Cycle 243 started
+Cycle 243 ended -> [40000, -39993] -> [32,37]
+[2025-04-17 11:41:56] Cycle 244 started
+Cycle 244 ended -> [39999, -39999] -> [39,39]
+[2025-04-17 11:42:44] Cycle 245 started
+Cycle 245 ended -> [39994, -39995] -> [36,37]
+[2025-04-17 11:43:31] Cycle 246 started
+Cycle 246 ended -> [39994, -39995] -> [36,40]
+[2025-04-17 11:44:19] Cycle 247 started
+Cycle 247 ended -> [39999, -39997] -> [43,34]
+[2025-04-17 11:45:06] Cycle 248 started
+Cycle 248 ended -> [40000, -39999] -> [32,38]
+[2025-04-17 11:45:54] Cycle 249 started
+Cycle 249 ended -> [39999, -39994] -> [39,37]
+[2025-04-17 11:46:41] Cycle 250 started
+Cycle 250 ended -> [39995, -39995] -> [35,37]
+[2025-04-17 11:47:28] Cycle 251 started
+Cycle 251 ended -> [39993, -39996] -> [29,42]
+[2025-04-17 11:48:15] Cycle 252 started
+Cycle 252 ended -> [39998, -39995] -> [40,37]
+[2025-04-17 11:49:02] Cycle 253 started
+Cycle 253 ended -> [39994, -39994] -> [37,36]
+[2025-04-17 11:49:49] Cycle 254 started
+Cycle 254 ended -> [39994, -39993] -> [36,31]
+[2025-04-17 11:50:36] Cycle 255 started
+Cycle 255 ended -> [39998, -39998] -> [38,39]
+[2025-04-17 11:51:24] Cycle 256 started
+Cycle 256 ended -> [39998, -39998] -> [38,38]
+[2025-04-17 11:52:12] Cycle 257 started
+Cycle 257 ended -> [39993, -39993] -> [37,31]
+[2025-04-17 11:52:58] Cycle 258 started
+Cycle 258 ended -> [39993, -39993] -> [36,31]
+[2025-04-17 11:53:45] Cycle 259 started
+Cycle 259 ended -> [39992, -39999] -> [18,34]
+[2025-04-17 11:54:30] Cycle 260 started
+Cycle 260 ended -> [40000, -39997] -> [32,35]
+[2025-04-17 11:55:17] Cycle 261 started
+Cycle 261 ended -> [39997, -39998] -> [33,32]
+[2025-04-17 11:56:04] Cycle 262 started
+Cycle 262 ended -> [39993, -39993] -> [31,31]
+[2025-04-17 11:56:50] Cycle 263 started
+Cycle 263 ended -> [39998, -39998] -> [41,40]
+[2025-04-17 11:57:38] Cycle 264 started
+Cycle 264 ended -> [39998, -39995] -> [34,36]
+[2025-04-17 11:58:25] Cycle 265 started
+Cycle 265 ended -> [39995, -39996] -> [36,36]
+[2025-04-17 11:59:12] Cycle 266 started
+Cycle 266 ended -> [39996, -39996] -> [27,37]
+[2025-04-17 11:59:58] Cycle 267 started
+Cycle 267 ended -> [39997, -39998] -> [25,21]
+[2025-04-17 12:00:44] Cycle 268 started
+Cycle 268 ended -> [39998, -40000] -> [33,39]
+[2025-04-17 12:01:31] Cycle 269 started
+Cycle 269 ended -> [39998, -39997] -> [38,43]
+[2025-04-17 12:02:19] Cycle 270 started
+Cycle 270 ended -> [39998, -39995] -> [41,17]
+[2025-04-17 12:03:05] Cycle 271 started
+Cycle 271 ended -> [39994, -39994] -> [36,31]
+[2025-04-17 12:03:52] Cycle 272 started
+Cycle 272 ended -> [39994, -39999] -> [36,38]
+[2025-04-17 12:04:39] Cycle 273 started
+Cycle 273 ended -> [40000, -39994] -> [39,30]
+[2025-04-17 12:05:26] Cycle 274 started
+Cycle 274 ended -> [39993, -39994] -> [29,24]
+[2025-04-17 12:06:12] Cycle 275 started
+Cycle 275 ended -> [39994, -40000] -> [29,38]
+[2025-04-17 12:06:58] Cycle 276 started
+Cycle 276 ended -> [39993, -39999] -> [36,38]
+[2025-04-17 12:07:46] Cycle 277 started
+Cycle 277 ended -> [39999, -39999] -> [39,38]
+[2025-04-17 12:08:34] Cycle 278 started
+Cycle 278 ended -> [40000, -39993] -> [39,37]
+[2025-04-17 12:09:21] Cycle 279 started
+Cycle 279 ended -> [40000, -39995] -> [39,37]
+[2025-04-17 12:10:09] Cycle 280 started
+Cycle 280 ended -> [39995, -39995] -> [36,30]
+
+================ SYSTEM SUMMARY ===============
+Total cycles completed: 280
+System started at     : 2025-04-17 08:32:36
+System ended at       : 2025-04-17 12:10:54
+Total time elapsed    : 218.29 minutes
+[2025-04-17 12:10:54] Start fitting Encoder counts
+[2025-04-17 12:10:57] Finished fitting Encoder counts
+Encoder error file saved as   : encoder_errors_20250417_083234.csv
+[2025-04-17 12:10:57] Adding direction column to CSV
+[2025-04-17 12:11:09] Finished adding direction
+[2025-04-17 12:11:09] Started calculating Angle Error
+[2025-04-17 12:12:46] Angle errors calculated and csv updated
+Logs are saved in     : cycle_log_20250417_083234.txt
+Final CSV saved to  : measurement_log_20250417_083234.csv
+====================================================
