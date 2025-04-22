@@ -13,7 +13,7 @@ CYCLE_DURATION_MIN = 1  # Approx duration of one cycle in minutes
 ENCODER_PPR = 40000  # Total pulse per rotation of encoder in the system
 
 # ---------------------SET SYSTEM RUN TIME-------------------------------------------------------------------------
-RUN_SYSTEM_MIN = 218
+RUN_SYSTEM_MIN = 7250
 # -----------------------------------------------------------------------------------------------------------------
 
 # Regex pattern to parse data (DO NOT CHANGE!)
